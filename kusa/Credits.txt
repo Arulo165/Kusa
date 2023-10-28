@@ -1,5 +1,4 @@
 Credits:
-Zenith Team
 Headers:
 Zenith Team
 Models:
